@@ -1,0 +1,19 @@
+h1{
+color: black;
+background: blue;
+font-size: 60px;
+margin: 20px;
+}
+body{
+background: red;
+}
+p{
+color: white;
+font-size: 20px;
+text-indent: 40px;
+text-transform: uppercase;
+}
+li{
+border: 30px;
+color: blue;
+}
